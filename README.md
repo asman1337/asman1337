@@ -1,4 +1,4 @@
-### 👋 Hello, I'm [Your Name]
+### 👋 Hello, I'm Asman Mirza
 
 🚀 **Professional Software Developer** | Kotlin | Rust | C++
 
