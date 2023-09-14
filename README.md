@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hello, I'm Asman Mirza
 
-<!--
-**asman1337/asman1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Professional Software Developer | Kotlin | Rust | C++
 
-Here are some ideas to get you started:
+🔧 I specialize in crafting elegant and efficient software solutions using a mix of cutting-edge technologies and proven industry standards. My expertise lies in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Kotlin: Leveraging the power of Kotlin to develop robust and maintainable Android & Web applications.
+
+🦀 Rust: Writing safe and high-performance systems and applications with Rust's memory safety guarantees.
+
+🔨 C++: Harnessing the versatility of C++ for various software development projects, from game development to system-level programming.
+
+💡 I'm passionate about solving complex problems and creating software that makes a meaningful impact. 
+
+🌐 You can find me on [LinkedIn]( https://in.linkedin.com/in/asman-mirza-a60807190) for professional networking and collaborations.
+
+📚 Lifelong learner and tech enthusiast, always eager to explore new horizons in software development.
+
+🌎 Let's connect and make technology work wonders together! 🚀
