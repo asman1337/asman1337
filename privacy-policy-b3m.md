@@ -1,44 +1,63 @@
 # Privacy Policy
 
-This Privacy Policy governs the manner in which B3M Technologies ("we", "us", or "our") collects, uses, maintains, and discloses information collected from users (each, a "User") of our mobile application ("App").
+This Privacy Policy outlines how **B3M Technologies** ("we", "us", or "our") collects, uses, maintains, and discloses information from users (each, a "User") of the **Bharosa** mobile application ("App"). We are committed to protecting your privacy and handling your data responsibly.
 
-## Information Collection and Use
+## Information Collection and Access
 
-We may collect personal identification information from Users in various ways, including, but not limited to, when Users visit our App, register on the App, fill out a form, and in connection with other activities, services, features, or resources we make available on our App. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain App-related activities.
+We may access and collect different types of information from Users, including:
 
-## Non-personal Identification Information
+- **Personal Identification Information**: This includes, but is not limited to, your name, email address, phone number, and other relevant details. This information is collected only when voluntarily submitted by Users, for example, during registration or while submitting a complaint.
+  
+- **Non-personal Identification Information**: We may automatically collect technical information, including the type of mobile device, operating system, app usage patterns, and information about your connection to the App, such as the type of internet service provider (ISP) used.
 
-We may collect non-personal identification information about Users whenever they interact with our App. Non-personal identification information may include the type of device and technical information about Users' means of connection to our App, such as the operating system and the Internet service providers utilized, and other similar information.
+### App Permissions:
+Our App may request certain permissions to access your mobile device features, such as:
+- **Location**: Used to help accurately assign complaint locations (optional).
+- **Camera/Storage**: Used to allow users to upload photos for complaint evidence (optional).
+  
+Users can manage these permissions in their device settings.
 
 ## How We Use Collected Information
 
-We may collect and use Users' personal information for the following purposes:
+We collect and use personal and non-personal information to:
+- **Provide Services**: Facilitate the submission and tracking of complaints.
+- **Enhance User Experience**: Tailor and improve App features based on User behavior and feedback.
+- **Communication**: Send periodic emails for service updates or responding to User inquiries.
+- **Compliance**: Ensure compliance with legal and regulatory requirements when needed.
 
-- To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our App.
-- To improve our App: We continually strive to improve our App offerings based on the information and feedback we receive from you.
-- To send periodic emails: We may use the email address to respond to their inquiries, questions, and/or other requests.
+## Data Sharing and Disclosure
+
+We do not sell, trade, or rent Users' personal identification information to third parties. We may share information in the following ways:
+- **With Law Enforcement**: The data you provide, including complaints and supporting details, may be shared with local law enforcement for resolution.
+- **Aggregated Data**: Non-personal identification information may be aggregated and shared with business partners, trusted affiliates, and advertisers for analysis, without revealing any personal identification.
+  
+We do not use personal data for advertising purposes, and all data collected is used strictly for the operation and improvement of the App.
+
+## Data Retention
+
+Personal information provided through the App will be stored only as long as necessary to fulfill the purposes outlined in this policy or as required by law. Non-personal information may be retained for analytical purposes.
 
 ## How We Protect Your Information
 
-We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our App.
+We employ robust security measures to protect your data, including encryption, secure storage, and restricted access protocols. However, please be aware that no security system is impenetrable, and we cannot guarantee complete security.
 
-## Sharing Your Personal Information
+## Third-Party Services
 
-We do not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
+Our App may contain links to external websites or services. We are not responsible for the privacy practices of these external sites, and we encourage Users to review their privacy policies.
 
 ## Changes to This Privacy Policy
 
-B3M Technologies has the discretion to update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications.
+We reserve the right to modify this Privacy Policy at any time. Any changes will be reflected by updating the "Last Updated" date at the bottom of this page. Users are encouraged to review this policy periodically for any changes.
 
-## Your Acceptance of These Terms
+## Acceptance of Terms
 
-By using this App, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our App. Your continued use of the App following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
+By using this App, you acknowledge and agree to this Privacy Policy. If you do not agree with any part of this policy, please discontinue the use of the App. Continued use of the App following changes to this policy will be considered acceptance of those changes.
 
-## Contacting Us
+## Contact Us
 
-If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at:
+If you have any questions or concerns about this Privacy Policy or your data, please contact us at:
 
-B3M Technologies  
-Email: connect@b3mtechnologies.com  
+**B3M Technologies**  
+Email: connect@otmalse.in, connect@b3mtechnologies.com
 
-This document was last updated on 27 Feb 2024.
+**Last Updated**: 11 Sept, 2024
