@@ -1,4 +1,9 @@
-## 👋 Hi, I'm **Asman Mirza**  
+👋 Hi, I'm **Asman Mirza**  – your friendly neighborhood code whisperer. When I'm not taming wild Rust bugs, I'm busy teaching Kotlin how to behave or convincing C++ that memory management isn't a party trick. I'm all about writing code that's so clean, it practically shines. Maintainability? Oh, that's a given. Performance? Don't even get me started – my code is faster than your coffee machine on a Monday morning.
+
+I'm here to optimize, refactor, and debug until your app screams "I’m ready for production!" and does a little happy dance. I can make Android apps that don't crash (most of the time), and I get my kicks from systems programming – the deeper the system, the sweeter the bug.
+
+Want me to make your backend scale like it’s on steroids? I’m your guy. Need a clean app with no spaghetti code? I’ve got you covered. Let’s build something so cool, even 404 errors will want to hang out with us.
+
 ### 🚀 **Professional Software Developer** | Kotlin | Rust | C++ | AWS | Android  
 🔹 Passionate about building high-performance, scalable, and impactful software solutions.  
 🔹 Specializing in **Kotlin**, **Rust**, and **C++** for system-level, backend and mobile development.  
