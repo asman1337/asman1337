@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy outlines how **B3M Technologies** ("we", "us", or "our") collects, uses, maintains, and discloses information from users (each, a "User") of the **Bharosa** mobile application ("App"). We are committed to protecting your privacy and handling your data responsibly.
+This Privacy Policy outlines how **Otmalse Technologies** and **B3M Technologies** ("we", "us", or "our") collect, use, maintain, and disclose information from users (each, a "User") of the **Bharosa** mobile application ("App"). We are committed to protecting your privacy and handling your data responsibly.
 
 ## Information Collection and Access
 
@@ -14,8 +14,8 @@ We may access and collect different types of information from Users, including:
 Our App may request certain permissions to access your mobile device features, such as:
 - **Location**: Used to help accurately assign complaint locations (optional).
 - **Camera/Storage**: Used to allow users to upload photos for complaint evidence (optional).
-  
-Users can manage these permissions in their device settings.
+
+Users can manage or revoke these permissions at any time in their device settings.
 
 ## How We Use Collected Information
 
@@ -30,20 +30,20 @@ We collect and use personal and non-personal information to:
 We do not sell, trade, or rent Users' personal identification information to third parties. We may share information in the following ways:
 - **With Law Enforcement**: The data you provide, including complaints and supporting details, may be shared with local law enforcement for resolution.
 - **Aggregated Data**: Non-personal identification information may be aggregated and shared with business partners, trusted affiliates, and advertisers for analysis, without revealing any personal identification.
-  
+
 We do not use personal data for advertising purposes, and all data collected is used strictly for the operation and improvement of the App.
 
 ## Data Retention
 
-Personal information provided through the App will be stored only as long as necessary to fulfill the purposes outlined in this policy or as required by law. Non-personal information may be retained for analytical purposes.
+Personal information provided through the App will be retained for up to 5 years after the resolution of complaints or as required by law. Non-personal information may be retained for analytical purposes.
 
 ## How We Protect Your Information
 
-We employ robust security measures to protect your data, including encryption, secure storage, and restricted access protocols. However, please be aware that no security system is impenetrable, and we cannot guarantee complete security.
+We employ robust security measures to protect your data, including advanced encryption techniques such as AES-256, secure storage, and restricted access protocols. However, please be aware that no security system is impenetrable, and we cannot guarantee complete security.
 
 ## Third-Party Services
 
-Our App may contain links to external websites or services. We are not responsible for the privacy practices of these external sites, and we encourage Users to review their privacy policies.
+Our App may contain links to external websites or services, such as analytics tools or hosting platforms. We are not responsible for the privacy practices of these external sites, and we encourage Users to review their privacy policies.
 
 ## Changes to This Privacy Policy
 
@@ -53,11 +53,14 @@ We reserve the right to modify this Privacy Policy at any time. Any changes will
 
 By using this App, you acknowledge and agree to this Privacy Policy. If you do not agree with any part of this policy, please discontinue the use of the App. Continued use of the App following changes to this policy will be considered acceptance of those changes.
 
+### GDPR/CCPA Compliance
+If you are located in the European Union (GDPR) or California (CCPA), you have additional rights, including access to, correction, deletion, or restriction of your data. Please contact us for more details.
+
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy or your data, please contact us at:
 
-**B3M Technologies**  
-Email: connect@otmalse.in, connect@b3mtechnologies.com
+**Otmalse Technologies** and **B3M Technologies**  
+Email: connect@otmalse.com, connect@b3mtechnologies.com  
 
-**Last Updated**: 11 Sept, 2024
+**Last Updated**: 10 Jan, 2025
