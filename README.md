@@ -1,58 +1,157 @@
-👋 Hi, I'm **Asman Mirza**  – your friendly neighborhood code whisperer. When I'm not taming wild Rust bugs, I'm busy teaching Kotlin how to behave or convincing C++ that memory management isn't a party trick. I'm all about writing code that's so clean, it practically shines. Maintainability? Oh, that's a given. Performance? Don't even get me started – my code is faster than your coffee machine on a Monday morning.
+<div align="center">
 
-I'm here to optimize, refactor, and debug until your app screams "I’m ready for production!" and does a little happy dance. I can make Android apps that don't crash (most of the time), and I get my kicks from systems programming – the deeper the system, the sweeter the bug.
+# Asman Mirza
 
-Want me to make your backend scale like it’s on steroids? I’m your guy. Need a clean app with no spaghetti code? I’ve got you covered. Let’s build something so cool, even 404 errors will want to hang out with us.
+**Engineer · Architect · Founder**
 
-### 🚀 **Professional Software Developer** | Kotlin | Rust | C++ | AWS | Android  
-🔹 Passionate about building high-performance, scalable, and impactful software solutions.  
-🔹 Specializing in **Kotlin**, **Rust**, and **C++** for system-level, backend and mobile development.  
-🔹 Focused on clean, maintainable code, and efficient problem-solving.
+*Building the infrastructure layer that should already exist*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asman3m)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/asman1337)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:rambo007.am@gmail.com)
 
-### 💻 **Tech Stack**  
-**Languages & Frameworks**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
-![Android](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)  
-
-**Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
+</div>
 
 ---
 
-### 🌐 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asman3m)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/asman_mirza)  
-[![Website](https://img.shields.io/badge/Website-%23FF9900.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.otmalse.com)
+I lead teams by day and build ecosystems by night.
+
+My stack runs from Android NDK to bare-metal Rust services — no abstraction layer is too high, no system too low. I've fine-tuned LLMs, written custom WebRTC SFU servers, shipped OS-level Android tooling, architected microservice migrations for Fortune 500 energy infrastructure, and somewhere in between, started building the AI tooling I couldn't find anywhere else.
+
+Primary languages: **Rust · Go · Kotlin**. Secondary religion: making things fast.
 
 ---
 
-### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asman1337&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asman1337&layout=compact&theme=radical&hide_border=true)
+## 🏗️ What I'm Shipping *(always evolving)*
+
+> Not side projects. A connected vision: own every layer of the AI development lifecycle.
 
 ---
 
-### 🔝 **Top Repositories**  
-[![ReadMe Stats](https://github-contributor-stats.vercel.app/api?username=asman1337&limit=5&theme=radical&combine_all_yearly_contributions=true)](https://github.com/asman1337)
+### 🔥 [Runlit](https://runlit.dev) · [github.com/runlit-dev](https://github.com/runlit-dev) — *The trust layer below your AI IDE*
+
+AI writes fast. Runlit keeps score. An eval layer that sits below your AI IDE and catches what code review misses — hallucinated APIs, intent mismatches, security vulnerabilities, and compliance violations — **before** they reach production.
+
+```bash
+$ runlit check --pr 2847
+→ scanning 147 lines (AI attribution: Cursor/claude-sonnet)
+  hallucination     0 phantom APIs found          ✓  1.00
+  intent            matches spec, minor drift      ✓  0.91
+  security          no critical issues             ✓  0.97
+  compliance        1 medium finding (PCI 6.2.4)   ⚠  0.88
+  eval.score        94 / 100
+✓ CLEARED — merge when ready.
+```
+
+139 rules. 12 provider-specific packs (OpenAI, Anthropic, LangChain, Stripe...). Installs in 30 seconds via GitHub App. Blocks merges when score drops below threshold. MIT-licensed rules.
+
+> The numbers making this necessary: **1.7×** more issues in AI-generated code. **45%** of AI tasks introduce security vulnerabilities. **75%** of enterprise engineers will use AI coding tools by 2028.
+
+`Rust` `GitHub App` `GitLab` `Azure DevOps` `Bitbucket` `CLI` `GitHub Actions`
 
 ---
 
-### ✍️ **Random Dev Quote**  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ⚡ [Routra](https://routra.dev) · [github.com/routra-dev](https://github.com/routra-dev) — *One API. Every GPU Cloud.*
+
+Intelligent LLM routing layer between your app and 10+ GPU providers. Scores every provider every 30s on price, latency, uptime, and queue depth. Routes to the cheapest option that meets your SLA — `<8ms` overhead, `<200ms` auto-failover.
+
+```python
+# Before
+client = openai.OpenAI(api_key="sk-...")
+
+# After. That's it.
+client = openai.OpenAI(api_key="rtr-...", base_url="https://api.routra.dev/v1")
+```
+
+> Typical savings: **60% of inference spend.** Adaptive ML routing via LinUCB bandit — learns per model, region, and time-of-day.
+
+`Rust` `Axum` `OpenAI-compatible` `Python SDK` `TypeScript SDK` `Go SDK` `Rust SDK` `CLI`
 
 ---
 
-### 📈 **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=asman1337&color=green)
+### 🖥️ [Zylora](https://zylora.dev) · [github.com/zylora-dev](https://github.com/zylora-dev) — *Serverless GPU. Zero DevOps.*
+
+Decorate a function. Get a production HTTPS endpoint backed by GPU hardware. No Docker, no YAML, no DevOps hire. Not Python-first — full feature parity across Python, TypeScript, Go, and Rust. Same mental model, idiomatic syntax per language.
+
+`Serverless` `GPU` `Python` `TypeScript` `Go` `Rust` `Multi-Language SDK`
 
 ---
 
-> **"Lifelong learner & tech enthusiast — always exploring new horizons in software development!"**
+### 🤖 [QCHO](https://qcho.ai) · [github.com/qcho-ai](https://github.com/qcho-ai) — *Ambient AI for your entire digital life*
+
+Not a chatbot. A background-capable multi-agent operating layer — voice-first, connector-driven, deeply personalised via persistent per-user memory (`imprint.bit`). Orchestrates Gmail, Calendar, Notion, Slack, GitHub, and custom MCP servers. Every external dependency behind a swappable adapter trait.
+
+```
+SENSA (intent) → ORACLE (task decompose + DAG) → Agent Mesh → Connectors → ECHO (response)
+```
+
+`Rust` `Axum` `Tauri 2` `Next.js 16` `Claude (Anthropic)` `pgvector` `Whisper` `ElevenLabs`
+
+---
+
+### ☁️ [Nuclyr](https://nuclyr.cloud) · [github.com/nuclyr](https://github.com/nuclyr) — *Multi-Cloud. Made for India.*
+
+Route storage, compute, and data workloads across AWS, GCP, and Azure — automatically. Built for Indian businesses: INR billing, UPI/Razorpay, GST invoices, DPDP compliance scanning. Phase 1 shipped: gRPC-first architecture, AES-256-GCM per-tenant encryption, Rust adapters, full SDK surface.
+
+`Rust` `gRPC` `Protobuf` `Next.js` `PostgreSQL 18` `Redis` `Razorpay`
+
+---
+
+## 🛠️ Core Stack
+
+**Systems & Backend**
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-%23087CFA.svg?style=flat&logo=kotlin&logoColor=white)
+
+**AI & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=flat&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+
+**Mobile & Multiplatform**
+
+![Android NDK](https://img.shields.io/badge/Android%20NDK-%2320232a.svg?style=flat&logo=android&logoColor=%23a4c639)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat&logo=jetpackcompose&logoColor=white)
+
+---
+
+## 📌 By Day
+
+- **Application Lead @ Vendeep / NRG Energy** *(2022 – present)* — Leading a 25-person team modernizing legacy enterprise portlets into microservices. 145+ APIs migrated across Spring Boot, FastAPI, and Salvo. Still running.
+- **Senior Android + Reverse Engineering @ Innobuzz** *(2020 – 2022)* — NDK-level engineering, custom OS injection, Android security tooling at the system layer.
+- Delivered 4 production phases for **HCTRA** (Harris County Toll Road Authority, Houston) — Kafka streaming, Oracle GoldenGate, millions of daily toll transactions.
+- Built and fine-tuned a **generative AI employee training platform** for HCTRA — Meta Llama 3, Rust + Python, custom fine-tuning pipeline.
+
+---
+
+## 🔭 What's next
+
+- Quantum Computing & Quantum ML — Qiskit coursework done, actively watching the space mature
+- Rust as the *default*, not the exception, for production-critical paths
+- Multi-agent coordination patterns — memory architecture, adaptive routing, DAG orchestration at scale
+
+---
+
+## 📊 Stats
+ 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asman1337&theme=radical&hide_border=true)](https://github.com/asman1337)
+
+</div>
+
+---
+
+<div align="center">
+<sub>The gap between "AI writes it" and "safe to ship" — that's the problem worth solving.</sub>
+</div>
